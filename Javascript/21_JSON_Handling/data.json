@@ -1,0 +1,7 @@
+{
+  "name": "Asif",
+  "age": 25,
+  "city": "Bengaluru",
+  "skills": ["JavaScript", "HTML", "CSS", "C#", "SQL", ".Net", "Angular"],
+  "isEmployed": true
+}
